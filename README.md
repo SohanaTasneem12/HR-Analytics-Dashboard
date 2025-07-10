@@ -26,7 +26,7 @@ This project presents a **Power BI dashboard** analyzing employee attrition tren
 
 ## 🖼️ Dashboard Screenshot
 
-![HR Dashboard](HR-Analytics-Dashboard/dashboard.png)
+![HR Dashboard](dashboard.png)
 
 > 📍 *This is a static image. To explore the interactive version, download and open the `.pbix` file below using Power BI Desktop.*
 
@@ -36,7 +36,7 @@ This project presents a **Power BI dashboard** analyzing employee attrition tren
 
 - `HR_Analytics.csv` — Dataset
 - `dashboard.pbix` — Power BI Dashboard file
-- `HR-Analytics-Dashboard/dashboard.png` — Preview image
+- `dashboard.png` — Preview image
 - `README.md` — Project documentation
 
 ---
